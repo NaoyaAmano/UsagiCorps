@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.5" tiledversion="1.7.1" orientation="orthogonal" renderorder="right-down" width="16" height="21" tilewidth="32" tileheight="32" infinite="0" nextlayerid="3" nextobjectid="4">
+ <tileset firstgid="6" source="haxeJamTilesetDebug.tsx"/>
+ <objectgroup id="2" name="Entities">
+  <object id="2" type="_hero" x="198" y="328" width="102" height="89"/>
+ </objectgroup>
+ <layer id="1" name="Walls" width="16" height="21">
+  <properties>
+   <property name="roomBGM" value="null"/>
+   <property name="roomDenotation" value="none"/>
+   <property name="roomID" value="fuck u"/>
+   <property name="tilesheet" value="debugtileset"/>
+  </properties>
+  <data encoding="csv">
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+7,7,0,0,0,0,0,0,0,0,0,0,0,0,0,7,
+7,7,0,0,0,0,0,0,0,0,0,0,0,0,7,7,
+7,7,7,0,0,0,0,0,0,0,0,0,0,7,7,7,
+7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+</data>
+ </layer>
+</map>
